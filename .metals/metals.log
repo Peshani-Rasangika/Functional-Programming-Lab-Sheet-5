@@ -1,0 +1,22 @@
+2024.07.15 13:24:38 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\prran\Documents\FP\FPLS5' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@9114fab]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2736a026]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@9114fab]
+2024.07.15 13:24:38 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.15 13:24:39 INFO  no build target found for C:\Users\prran\Documents\FP\FPLS5\FPLS5_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 13:24:44 WARN  Could not find semantic tokens for: file:///C:/Users/prran/Documents/FP/FPLS5/FPLS5_1.scala
+2024.07.15 13:24:48 INFO  Running List(C:\Users\prran\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\prran\Documents\FP\FPLS5)
+2024.07.15 13:24:49 INFO  Attempting to connect to the build server...
+2024.07.15 13:24:49 INFO  Running BSP server List(C:\Users\prran\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\prran\Documents\FP\FPLS5\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\prran\Documents\FP\FPLS5\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\prran\Documents\FP\FPLS5\.scala-build\ide-envs.json, C:\Users\prran\Documents\FP\FPLS5)
+2024.07.15 13:24:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\prran\Documents\FP\FPLS5\.metals\bsp.trace.json or C:\Users\prran\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 13:24:54 INFO  time: Connected to build server in 4.96s
+2024.07.15 13:24:54 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.15 13:24:54 INFO  compiling fpls5_f4dd477a3a (1 scala source)
+2024.07.15 13:24:54 INFO  time: compiled FPLS5_f4dd477a3a in 0.32s
+2024.07.15 13:25:00 INFO  time: indexed workspace in 6.32s
+2024.07.15 13:25:13 INFO  Shutting down server
+2024.07.15 13:25:13 INFO  shutting down Metals
+2024.07.15 13:25:13 INFO  Shut down connection with build server.
+2024.07.15 13:25:13 INFO  Exiting server
